@@ -1,0 +1,30 @@
+
+
+#page-inner {
+    width:980px;
+    margin:10px 20px 10px 0px;
+    background-color:#fff!important;
+    padding:10px;
+}
+.pad-top {
+    padding-top:15px;
+}
+
+
+.navbar-side {
+	border:none;
+	background-color: #fff;
+	
+}
+
+
+.div-square {
+    padding:5px;
+    border:3px double #e1e1e1;
+   -webkit-border-radius:8px;
+   -moz-border-radius:8px;
+    border-radius:8px;
+    margin:5px;
+
+}
+
